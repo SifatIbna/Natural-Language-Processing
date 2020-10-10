@@ -4,6 +4,7 @@ We will discuss about
 
 - Word Embeddings
 - RNN (Recurrent Neural Network)
+- GRN (Gated Recurrent Network)
 - LSTM (Long Short Term Memory)
 - Transformer
 - GPT
