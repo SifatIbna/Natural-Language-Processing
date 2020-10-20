@@ -1,4 +1,4 @@
-# This is an overall discussion of Natural Language Processing
+# This is an detailed discussion of Natural Language Processing
 
 We will discuss about
 
